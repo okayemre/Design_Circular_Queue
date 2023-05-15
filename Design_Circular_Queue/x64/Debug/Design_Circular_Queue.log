@@ -1,0 +1,5 @@
+﻿  main.cpp
+  MyCircularQueue.cpp
+C:\Users\okays\source\repos\Design_Circular_Queue\Design_Circular_Queue\MyCircularQueue.cpp(3,23): error C2011: 'MyCircularQueue': 'class' type redefinition
+C:\Users\okays\source\repos\Design_Circular_Queue\Design_Circular_Queue\MyCircularQueue.h(3,7): message : see declaration of 'MyCircularQueue'
+  Generating Code...
