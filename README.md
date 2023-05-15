@@ -19,7 +19,7 @@ boolean isFull() Checks whether the circular queue is full or not.
 
 You must solve the problem without using the built-in queue data structure in your programming language.
 
-Example 1:
+Example:
 
 Input
 
